@@ -31,3 +31,6 @@ build/
 *.whl
 *.db
 *.sqlite3
+
+# 其他
+.cursorrules
