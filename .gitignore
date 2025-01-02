@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+E:/Development/Software/Installed/anaconda3/envs/FileMate/
+
+# IDE和编辑器配置
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 其他
+*.log
+*.DS_Store
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+*.db
+*.sqlite3
